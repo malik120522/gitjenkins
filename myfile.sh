@@ -1,3 +1,3 @@
-echo "Hello Shell Hello :: "
+echo "Hello Shell Hello"
 #!/bin/sh
 ls -al
