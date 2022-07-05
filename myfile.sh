@@ -1,3 +1,3 @@
-echo "Hello Shell date :: " date
+echo "Hello Shell Hello :: "
 #!/bin/sh
 ls -al
