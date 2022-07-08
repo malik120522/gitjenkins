@@ -1,3 +1,3 @@
-echo "Hello Shell 070722-1602"
+echo "Hello Shell 080722-1502"
 #!/bin/sh
 ls -al
